@@ -1,2 +1,2 @@
 # PatikaProjeler
-* Patika + FullStack Web Developer Programı 2 Bitirme Projeleri
+* Patika + FullStack Web Developer Programı Bitirme Projeleri
